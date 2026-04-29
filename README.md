@@ -19,7 +19,7 @@ ________________________________________________________________
 
 | Theme | Preview | Download |
 |-------|---------|----------|
-| **Rainbow AOKP** | <img src="previews/AOKPRainbow.gif" alt="AOKPRainbow" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Rainbow.AOKP.zip) |  |
+| **HyperOS** | <img src="previews/HyperOS.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Rainbow.AOKP.zip) |  |
 | **AOKP Black & White** | <img src="previews/AOKPb&wGear.gif" alt="AOKPb&wgear" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/AOKP.Black.White.zip) |  |
 | **AOKP old** | <img src="previews/AOKPearly.gif" alt="AOKPearly" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/AOKP.old.zip) |  |
 | **AOSPA** | <img src="previews/AOSPA.gif" alt="AOSPA" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/AOSPA.zip) |  |
