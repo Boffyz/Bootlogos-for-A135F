@@ -25,11 +25,9 @@ ________________________________________________________________
 
 ## Important Distinctions
 
-1. This project targets the <b>bootlogo<b/> that plays after the bootlogo, during the Android system startup.
+1. This project targets the **bootlogo** that plays after the bootlogo, during the Android system startup.
 2. They are not for samsung phones with stock (rooted) oneui as their os
 
-> [!TIP]
-> if you're looking for samsung .qmg bootanimations, go to https://github.com/John0n1/SMbootFX
 
 ## How It Works
 
@@ -38,9 +36,9 @@ the rom your on reads the bootanimation.zip file, which shows it based on its re
 
 ## Installation Guide
 
-1. **Download** your chosen boot animation
-2. **Open** magisk (ksu).
-3. install it as a module (duh).
+1. **Download** your chosen bootlogo
+2. **move it** to the root of your internal storage (the directory that starts your internal storage).
+3. go to termux and give it root permissions.
 4. **Reboot** your device.
 5. **Enjoy** the new boot animation :3
 
