@@ -25,7 +25,7 @@ ________________________________________________________________
 ## Important Distinctions
 
 1. This project targets the **bootlogo** that plays after the bootlogo, during the Android system startup.
-2. They are not for samsung phones with stock (rooted) oneui as their os
+2. They are both for samsung phones with stock (rooted) oneui and aosp as their os
 
 
 ## How It Works
@@ -35,10 +35,10 @@ the rom your on reads the up_param.bin file, which shows it based on its resolut
 ## Installation Guide
 
 1. **Download** your chosen bootlogo
-2. **extract it**
-3. **move** the up_param.bin file to the *root* of your internal storage (the directory that starts your internal storage).
-4. go to *termux* and give it root permissions.
-5. **paste** sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param (or dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param if you haven't downloaded sudo on termux)
+2. **Extract it**
+3. **Move** the up_param.bin file to the *root* of your internal storage (the directory that starts your internal storage).
+4. Go to *termux* and give it root permissions.
+5. **Paste** sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param (or dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param if you haven't downloaded sudo on termux)
 6. **Reboot** your device.
 7. **Enjoy** the new boot bootlogo :3
 
@@ -47,14 +47,11 @@ the rom your on reads the up_param.bin file, which shows it based on its resolut
 
 The .bin files used in this project are made by me, but credits goes to the images I've used
 
-## How It Works
-
-the samsung phone you're on reads the up_param.bin file, which shows it based on its resolution (duh)
 
 ## Important Notes
 
-- these files are only for android based devices that are made by samsung.
-- Use at your own risk—always back up your device before modifying system files.
+- these files are only for Android based devices that are made by Samsung.
+- Use at your own risk, always back up your device before modifying system files.
 - inspired by https://github.com/John0n1/SMbootFX
 
 ## Troubleshooting
@@ -63,7 +60,7 @@ the samsung phone you're on reads the up_param.bin file, which shows it based on
 
 ## Supported Devices
 
-Most phones devices manufactured after 2015 are supported.
+Most Samsung phones devices manufactured after 2015 are supported.
 
 more specifically the ones that does not have adv-env.img inside of its up_param.bin file
 
@@ -73,7 +70,7 @@ Confirmed working on:
 
 To confirm support for your specific device, check if yours has support for custom bootlogos
 
-since this is for samsung exynos devices, check if it has this inside of its bootloader:
+since this is for samsung exynos devices, check if this is inside of its bootloader (BL):
 
 * `up_param.bin`
 
@@ -92,7 +89,7 @@ The .bin files used in this project are made by me, and the image (that I added 
 
 - This project is **not** affiliated with, sponsored, or endorsed by Samsung Electronics Co., Ltd., or any other mentioned or themed brands. All trademarks are the property of their respective owners.
 - The `.bin` files are only distributed inside as replaceable files in the **Releases** section due to GitHub file size limitations.
-- Be cautious when downloading forked versions—especially faulty `bootlogos` from unknown sources, as they may softbrick.
+- Be cautious when downloading forked versions—especially faulty `bootlogos` from unknown sources, as they may softbrick your phone.
 
 
 ## License
