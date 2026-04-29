@@ -31,24 +31,21 @@ ________________________________________________________________
 
 ## How It Works
 
-the rom your on reads the bootanimation.zip file, which shows it based on its resolution and frames it was compressed with
-
+the rom your on reads the up_param.bin file, which shows it based on its resolution and how its edited
 
 ## Installation Guide
 
 1. **Download** your chosen bootlogo
 2. **move it** to the root of your internal storage (the directory that starts your internal storage).
 3. go to termux and give it root permissions.
-4. **Reboot** your device.
-5. **Enjoy** the new boot animation :3
-
-> [!TIP]
-> some bootanimations may not show (and would make your phone get stuck on the bootlogo till booting your phone without a bootanimation), so if they don't, choose another one or convert it to your phone's resolution
+4. paste sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param (or dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param if you haven't downloaded sudo on termux)
+5. **Reboot** your device.
+6. **Enjoy** the new boot bootlogo :3
 
 
 ## Credits
 
-The .zip files used in this project are made by various creators and devs, and credits goes to their respective owner
+The .bin files used in this project are made by me, but credits goes to the images I've used
 
 ## How It Works
 
