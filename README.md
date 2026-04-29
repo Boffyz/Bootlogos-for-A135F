@@ -13,7 +13,7 @@ These .bin files replace the default bootlogo with themed ones, offering a perso
   <h3>All themes are provided as termux flashable .bin files. so just follow its guide on this repository</h3>
 
 [![Magisk 420+](https://img.shields.io/badge/Magisk-420+-000000?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
-[![Android 5-16](https://img.shields.io/badge/Android-1%E2%86%9216-000000?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+[![Android 5-16](https://img.shields.io/badge/Android-5%E2%86%9216-000000?style=flat&logo=android&logoColor=green)](https://www.android.com/)
 
 ________________________________________________________________
 
