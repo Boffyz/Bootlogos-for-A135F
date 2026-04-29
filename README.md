@@ -97,4 +97,4 @@ The .bin files used in this project are made by me, and the image (that I added 
 
 ## License
 
-This project is licensed under the [GNU](LICENSE).
+This project is licensed under the [GNU General Public License](LICENSE).
