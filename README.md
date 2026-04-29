@@ -35,11 +35,12 @@ the rom your on reads the up_param.bin file, which shows it based on its resolut
 ## Installation Guide
 
 1. **Download** your chosen bootlogo
-2. **move it** to the root of your internal storage (the directory that starts your internal storage).
-3. go to termux and give it root permissions.
-4. paste sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param (or dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param if you haven't downloaded sudo on termux)
-5. **Reboot** your device.
-6. **Enjoy** the new boot bootlogo :3
+2. **extract it**
+3. **move** the up_param.bin file to the *root* of your internal storage (the directory that starts your internal storage).
+4. go to *termux* and give it root permissions.
+5. **paste** sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param (or dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param if you haven't downloaded sudo on termux)
+6. **Reboot** your device.
+7. **Enjoy** the new boot bootlogo :3
 
 
 ## Credits
