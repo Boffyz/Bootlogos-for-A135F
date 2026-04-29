@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>test<b/></h1>
+  <h1><b>custom bootlogos for samsung devices<b/></h1>
 </div>
 
 
@@ -10,7 +10,7 @@ These .bin files replace the default bootlogo with themed ones, offering a perso
 </div>
 
 <div align="center">
-  <h3>All themes are provided as magisk/ksu flashable .zip files. so just install them as a module</h3>
+  <h3>All themes are provided as termux flashable .bin files. so just follow its guide on this repository</h3>
 
 [![Magisk 420+](https://img.shields.io/badge/Magisk-420+-000000?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
 [![Android 5-16](https://img.shields.io/badge/Android-1%E2%86%9216-000000?style=flat&logo=android&logoColor=white)](https://www.android.com/)
@@ -25,7 +25,7 @@ ________________________________________________________________
 
 ## Important Distinctions
 
-1. This project targets the **boot animation** that plays after the bootlogo, during the Android system startup.
+1. This project targets the <b>bootlogo<b/> that plays after the bootlogo, during the Android system startup.
 2. They are not for samsung phones with stock (rooted) oneui as their os
 
 > [!TIP]
