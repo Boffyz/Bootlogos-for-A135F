@@ -4,49 +4,22 @@
 
 
 <div align="left">
-Implements custom boot animations in `.zip` format on devices with Magisk/KernelSU (SuperSU) as its root solution/method.
+Implements custom custom bootlogos for Samsung phones (after 2015?) on devices with Magisk/KernelSU as its root solution/method.
 
-These .zip files replace the default boot animation with themed ones, offering a personalized startup experience :3
+These .bin files replace the default bootlogo with themed ones, offering a personalized boot-up experience :3
 </div>
 
 <div align="center">
   <h3>All themes are provided as magisk/ksu flashable .zip files. so just install them as a module</h3>
 
 [![Magisk 420+](https://img.shields.io/badge/Magisk-420+-000000?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
-[![Android 1-16](https://img.shields.io/badge/Android-1%E2%86%9216-000000?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+[![Android 5-16](https://img.shields.io/badge/Android-1%E2%86%9216-000000?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 
 ________________________________________________________________
 
 | Theme | Preview | Download |
 |-------|---------|----------|
 | **HyperOS** | <img src="previews/HyperOS.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Rainbow.AOKP.zip) |  |
-| **AOKP Black & White** | <img src="previews/AOKPb&wGear.gif" alt="AOKPb&wgear" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/AOKP.Black.White.zip) |  |
-| **AOKP old** | <img src="previews/AOKPearly.gif" alt="AOKPearly" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/AOKP.old.zip) |  |
-| **AOSPA** | <img src="previews/AOSPA.gif" alt="AOSPA" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/AOSPA.zip) |  |
-| **AndroidTV** | <img src="previews/AndroidTV.gif" alt="AndroidTV" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/AndroidTV.zip) |  |
-| **Apple vs Android** | <img src="previews/Apple_vs_Android.gif" alt="ApplevsAndroid" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Apple.vs.Android.zip) |  |
-| **ArrowOS** | <img src="previews/ArrowOS.gif" alt="ArrowOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/ArrowOS.zip) |  |
-| **BreezeUI** | <img src="previews/BreezeUI.gif" alt="BreezeUI" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/BreezeUI.zip) |  |
-| **CandyROM** | <img src="previews/CandyROM.gif" alt="CandyROM" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/CandyROM.zip) |  |
-| **Cyanogenmod11** | <img src="previews/Cyanogenmod11.gif" alt="Cyanogenmod11" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Cyanogenmod11.zip) |  |
-| **Cyanogenmod11 but cool** | <img src="previews/Cyanogenmod11cool.gif" alt="Cyanogenmod11cool" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Cyanogenmod11.but.cool.zip) |  |
-| **Cyanogenmod12** | <img src="previews/Cyanogenmod12.gif" alt="Cyanogenmod12" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Cyanogenmod12.zip) |  |
-| **Cyanogenmod7** | <img src="previews/Cyanogenmod7.gif" alt="Cyanogenmod7" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Cyanogenmod7.zip) |  |
-| **DotOS** | <img src="previews/DotOS.gif" alt="DotOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/DotOS.zip) |  |
-| **EvolutionX** | <img src="previews/EvolutionX.gif" alt="EvolutionX" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/EvolutionX.zip) |  |
-| **Stock Google** | <img src="previews/Google.gif" alt="Google" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Stock.Google.zip) |  |
-| **HTC** | <img src="previews/HTC.gif" alt="HTC" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/HTC.zip) |  |
-| **HavocOS** | <img src="previews/HavocOS.gif" alt="HavocOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/HavocOS.zip) |  |
-| **IodèOS** | <img src="previews/IodèOS.gif" alt="IodèOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/IodeOS.zip) |  |
-| **Lights** | <img src="previews/Lights.gif" alt="Lights" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Lights.zip) |  |
-| **MistOS** | <img src="previews/MistOS.gif" alt="MistOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/MistOS.zip) |  |
-| **Project Elixir** | <img src="previews/Project_Elixir.gif" alt="Project_Elixir" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Project.Elixir.zip) |  |
-| **Reimu** | <img src="previews/Reimu.gif" alt="Reimu" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Reimu.zip) |  |
-| **Sci-Fidroid** | <img src="previews/Sci-Fidroid.gif" alt="Sci-Fidroid" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Sci-Fidroid.zip) |  |
-| **The Clover Project** | <img src="previews/The Clover Project.gif" alt="TheCloverProject" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/The.Clover.Project.zip) |  |
-| **ctOS** | <img src="previews/ctOS.gif" alt="ctOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/ctOS.zip) |  |
-| **New LineageOS** | <img src="previews/newLineageOS.gif" alt="newLineageOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/New.LineageOS.zip) |  |
-| **Old (original) LineageOS** | <img src="previews/oldLineageOS.gif" alt="oldLineageOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Old.LineageOS.zip) |  |
 | *More coming soon!* |  |  |  |
 </div>
 
