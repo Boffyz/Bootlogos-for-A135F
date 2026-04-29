@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><u>custom bootlogos for samsung devices</u></h2>
+  <h5><u>custom bootlogos for samsung devices</u></h5>
 </div>
 
 
