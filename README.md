@@ -4,7 +4,7 @@
 
 
 <div align="left">
-<b></b>Implements custom custom bootlogos for Samsung phones (after 2015?) on devices with Magisk/KernelSU as its root solution/method.</b>
+<h3></b>Implements custom custom bootlogos for Samsung phones (after 2015?) on devices with Magisk/KernelSU as its root solution/method.</b></h3>
 
 These .bin files replace the default bootlogo with themed ones, offering a personalized boot-up experience :3
 </div>
