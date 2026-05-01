@@ -20,7 +20,7 @@ These .bin files replace the default bootlogo with themed ones, offering a perso
 
 Im not responsible on device bricking, random bootloops or no boot at all, <u>you're the one who decided to flash these bootlogos</u>
 
-do your own research before modifying things that's related to <b>your phone's bootloader</b>
+please do your own research before modifying things that's related to <b>your phone's bootloader</b> and don't blame me for breaking your phone, unless if there's an issue with the bootlogos itself
 
 
 ________________________________________________________________
