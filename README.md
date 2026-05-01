@@ -19,8 +19,7 @@ ________________________________________________________________
 | Theme | Preview | Download |
 |-------|---------|----------|
 | **HyperOS** | <img src="previews/HyperOS.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/Bootlogo/HyperOS.zip) |  |
-| **Classic Galaxy** | <img src="previews/HyperOS.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/Bootlogo/classic galaxy.zip) |  |
-| *More coming soon!* |  |  |  |
+| **Classic Galaxy** | <img src="previews/HyperOS.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/Bootlogo/classic_galaxy.zip) |  | | *More coming soon!* |  |  |  |
 </div>
 
 ## Important Distinctions
