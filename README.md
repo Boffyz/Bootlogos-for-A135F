@@ -1,3 +1,5 @@
+[![Android 5-16](	<img src="https://img.shields.io/badge/Samsung-blue?style=social&logo=samsung" alt="Banner" width="80%">)](https://www.samsung.com/)
+
 <div align="center">
   <h1><u>custom bootlogos for samsung devices</u></h1>
 </div>
@@ -12,7 +14,6 @@ These .bin files replace the default bootlogo with themed ones, offering a perso
 <div align="center">
   <h3>All themes are provided as termux flashable .bin files. so just follow its guide on this repository</h3>
 
-[![Android 5-16](https://img.shields.io/badge/Samsung-5%E2%86%9216-00ff00?style=plastic&logo=Samsung&logoColor=blue)](https://www.samsung.com/)
 
 ________________________________________________________________
 
