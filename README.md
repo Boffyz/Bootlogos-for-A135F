@@ -16,7 +16,7 @@ These .bin files replace the default bootlogo with themed ones, offering a perso
   <h3>All themes are provided as termux flashable .bin files. so just follow its guide on this repository</h3>
 
 
-## Note
+## /!\NOTE/!\
 
 Im not responsible on device bricking, random bootloops or no boot at all, <u>you're the one who decided to flash these bootlogos</u>
 
