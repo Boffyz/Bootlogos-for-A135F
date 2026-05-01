@@ -7,13 +7,20 @@
 
 
 <div align="center">
-<h3><i>Implements custom custom bootlogos for Samsung phones (after 2015?) with Magisk/KernelSU as its root solution/method.</i></h3>
+<h3><i>Implements custom custom bootlogos for Samsung phones (after 2019?) with Magisk/KernelSU as its root solution/method.</i></h3>
 
 These .bin files replace the default bootlogo with themed ones, offering a personalized boot-up experience :3
 </div>
 
 <div align="center">
   <h3>All themes are provided as termux flashable .bin files. so just follow its guide on this repository</h3>
+
+
+## Note
+
+Im not responsible on device bricking, random bootloops or no boot at all, <u>you're the one who decided to flash these bootlogos</u>
+
+do your own research before modifying things that's related to <b>your phone's bootloader</b>
 
 
 ________________________________________________________________
@@ -27,7 +34,7 @@ ________________________________________________________________
 ## Important Distinctions
 
 1. This project targets the **bootlogo** that plays after the bootlogo, during the Android system startup.
-2. They are both for samsung phones with stock (rooted) oneui and aosp as their os
+2. They are both for samsung phones with stock (rooted) oneui or aosp as their os
 
 
 ## How It Works
@@ -62,7 +69,7 @@ The .bin files used in this project are made by me, but credits goes to the imag
 
 ## Supported Devices
 
-Most Samsung phones devices manufactured after 2015 are supported.
+Most Samsung phones devices manufactured after 2019 are supported.
 
 more specifically the ones that does not have adv-env.img inside of its up_param.bin file
 
@@ -70,7 +77,7 @@ Confirmed working on:
 
 * **Galaxy A series:** A13 (A135F)
 
-To confirm support for your specific device, check if yours has support for custom bootlogos
+To confirm support for your specific device, check if your phone has support for custom bootlogos
 
 since this is for samsung exynos devices, check if this is inside of its bootloader (BL):
 
@@ -85,7 +92,7 @@ Pull requests are welcome for new themes or improvements!
 
 ## Credits
 
-The .bin files used in this project are made by me, and the image (that I added to these bootlogos) credits goes to their respective owner
+The .bin files used in this project are made by me, and the image (that I added to these bootlogos) are not mine, so credits goes to their respective owners and artists
 
 ## Notices
 
