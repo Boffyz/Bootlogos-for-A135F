@@ -12,14 +12,14 @@ These .bin files replace the default bootlogo with themed ones, offering a perso
 <div align="center">
   <h3>All themes are provided as termux flashable .bin files. so just follow its guide on this repository</h3>
 
-[![Android 5-16](https://img.shields.io/badge/Android-5%E2%86%9216-000000?style=flat&logo=android&logoColor=green)](https://www.android.com/)
+[![Android 5-16](https://img.shields.io/badge/Samsung-5%E2%86%9216-000000?style=flat&logo=Samsung&logoColor=blue)](https://www.samsung.com/)
 
 ________________________________________________________________
 
 | Theme | Preview | Download |
 |-------|---------|----------|
 | **HyperOS** | <img src="previews/HyperOS.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/Bootlogo/HyperOS.zip) |  |
-| **Classic Galaxy** | <img src="previews/classic galaxy.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/Bootlogo/classic_galaxy.zip) |  | | *More coming soon!* |  |  |  |
+| **Classic Galaxy** | <img src="previews/classic galaxy.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/classic_galaxy/classic.galaxy.zip) |  | | *More coming soon!* |  |  |  |
 </div>
 
 ## Important Distinctions
