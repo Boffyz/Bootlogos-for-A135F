@@ -1,7 +1,8 @@
-[![Android 5-16](	<img src="https://img.shields.io/badge/Samsung-blue?style=social&logo=samsung" alt="Banner" width="80%">)]
+<p align="center">
+	<img src="https://img.shields.io/badge/BootLogos-blue?style=social&logo=samsung" alt="Banner" width="100%">
 
 <div align="center">
-  <h1><u>custom bootlogos for samsung devices</u></h1>
+  <h1><u>custom bootlogos for Samsung devices</u></h1>
 </div>
 
 
