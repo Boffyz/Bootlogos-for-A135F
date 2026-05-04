@@ -9,7 +9,7 @@
 <div align="center">
 <h3><i>Implements custom custom bootlogos for Samsung phones (after 2019?) with Magisk/KernelSU as its root solution/method.</i></h3>
 
-These .bin files replace the default bootlogo with themed ones, offering a personalized boot-up experience :3
+These .bin files replace the default bootlogo with themed ones, offering a personalized **boot-up experience** :3
 </div>
 
 <div align="center">
@@ -48,7 +48,7 @@ the rom your on reads the up_param.bin file, which shows it based on its resolut
 > [!CAUTION]
 > Im not responsible on device bricking, random bootloops or no boot at all
 >
-> <u>you're the one who decided to flash these bootlogos</u>
+> **you're the one who decided to flash these bootlogos**
 
 ## Credits
 
