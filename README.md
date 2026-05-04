@@ -15,14 +15,6 @@ These .bin files replace the default bootlogo with themed ones, offering a perso
 <div align="center">
   <h3>All themes are provided as termux flashable .bin files. so just follow its guide on this repository</h3>
 
-
-## /!\NOTE/!\
-
-Im not responsible on device bricking, random bootloops or no boot at all, <u>you're the one who decided to flash these bootlogos</u>
-
-please do your own research before modifying things that's related to <b>your phone's bootloader</b> and don't blame me for breaking your phone, unless if there's an issue with the bootlogos itself
-
-
 ________________________________________________________________
 
 | Theme | Preview | Download |
@@ -53,6 +45,10 @@ the rom your on reads the up_param.bin file, which shows it based on its resolut
 6. **Reboot** your device.
 7. **Enjoy** the new boot bootlogo :3
 
+> [!CAUTION]
+> Im not responsible on device bricking, random bootloops or no boot at all
+>
+> <u>you're the one who decided to flash these bootlogos</u>
 
 ## Credits
 
