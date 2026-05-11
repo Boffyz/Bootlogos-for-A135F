@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h3><i>Implements custom custom bootlogos for Samsung phones (after 2019?) with Magisk/KernelSU as its root solution/method.</i></h3>
+<h3><i>Implements custom custom bootlogos for the A135F with Magisk/KernelSU as its root solution/method.</i></h3>
 
 These .bin files replace the default bootlogo with themed ones, offering a personalized **boot-up experience** :3
 </div>
@@ -28,22 +28,30 @@ ________________________________________________________________
 ## Important Distinctions
 
 1. This project targets the **bootlogo** that plays after the bootlogo, during the Android system startup.
-2. They are both for samsung phones with stock (rooted) oneui or aosp as their os
+2. They are for the a13 exynos (A135F), but i haven't tested for other samsung models
 
 
 ## How It Works
 
-the rom your on reads the up_param.bin file, which shows it based on its resolution and how its edited
+the bootloader your samsung phone have reads the up_param.bin file, which shows it based on its resolution and how its edited
 
 ## Installation Guide
 
 1. **Download** your chosen bootlogo
 2. **Extract it**
 3. **Move** the up_param.bin file to the *root* of your internal storage (the directory that starts your internal storage).
-4. Go to *termux* and give it root permissions.
-5. **Paste** sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param (or dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param if you haven't downloaded sudo on termux)
-6. **Reboot** your device.
-7. **Enjoy** the new boot bootlogo :3
+4. **Go to** *termux* and give it root permissions.
+5. **Paste**
+
+sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param
+
+or 
+
+dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param 
+
+if you haven't downloaded sudo on termux)
+7. **Reboot** your device.
+8. **Enjoy** the new boot bootlogo :3
 
 > [!CAUTION]
 > Im not responsible on device bricking, random bootloops or no boot at all
@@ -67,9 +75,9 @@ The .bin files used in this project are made by me, but credits goes to the imag
 
 ## Supported Devices
 
-Most Samsung phones devices manufactured after 2019 are supported.
+The A135F is supported (duh).
 
-more specifically the ones that does not have adv-env.img inside of its up_param.bin file
+but more specifically the ones that does not have adv-env.img inside of its up_param.bin file
 
 Confirmed working on:
 
