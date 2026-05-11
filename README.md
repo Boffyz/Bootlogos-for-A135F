@@ -49,7 +49,8 @@ or
 
 dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param 
 
-if you haven't downloaded sudo on termux)
+(if you haven't downloaded sudo on termux)
+
 7. **Reboot** your device.
 8. **Enjoy** the new boot bootlogo :3
 
