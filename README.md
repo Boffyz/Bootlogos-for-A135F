@@ -22,6 +22,7 @@ ________________________________________________________________
 | **HyperOS** | <img src="previews/HyperOS.gif" alt="HyperOS" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/Bootlogo/HyperOS.zip) |  |
 | **Classic Galaxy** | <img src="previews/classic galaxy.gif" alt="Classic_Galaxy" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/classic_galaxy/classic.galaxy.zip) |  |
 | **Inverted Stock** | <img src="previews/inverted stock.gif" alt="Inverted_Stock" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/inverted_stock/inverted.stock.zip) |  |
+| **GT-I9000** | <img src="previews/GT-I9000.gif" alt="GT-I9000" width="160"> | [download](https://github.com/Boffyz/Bootlogos-for-A135F/releases/download/inverted_stock/GT-I9000.zip) |  |
 | *More coming soon!* |  |  |  |
 </div>
 
