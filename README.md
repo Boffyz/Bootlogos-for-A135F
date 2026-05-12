@@ -28,13 +28,13 @@ ________________________________________________________________
 
 ## Important Distinctions
 
-1. This project targets the **bootlogo** that plays after the bootlogo, during the Android system startup.
-2. They are for the a13 exynos (A135F), but i haven't tested for other samsung models
+1. This project targets the **bootlogo** that plays before the bootanimation, during the Android bootloader startup.
+2. They are for the A13 Exynos (A135F), but i haven't tested for other Samsung models
 
 
 ## How It Works
 
-the bootloader your samsung phone have reads the up_param.bin file, which shows it based on its resolution and how its edited
+the bootloader your Samsung phone has reads the up_param.bin file, which shows it based on its resolution and how its edited
 
 ## Installation Guide
 
@@ -44,11 +44,15 @@ the bootloader your samsung phone have reads the up_param.bin file, which shows 
 4. **Go to** *termux* and give it root permissions.
 5. **Paste**
 
-sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param
+<p align="center">
+	
+	sudo dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param
 
-or 
+or
 
-dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param 
+<p align="center">
+
+    dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param
 
 (if you haven't downloaded sudo on termux)
 
@@ -63,7 +67,6 @@ dd if=/sdcard/up_param.bin of=/dev/block/by-name/up_param
 ## Credits
 
 The .bin files used in this project are made by me, but credits goes to the images I've used
-
 
 ## Important Notes
 
